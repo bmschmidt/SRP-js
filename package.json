@@ -1,0 +1,25 @@
+{
+  "name": "stablerandomprojection",
+  "version": "1.0.0",
+  "description": "Vectorize text using SHA-1 hashes",
+  "main": "SRP.js",
+  "scripts": {
+    "test": "node test/all.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bmschmidt/SRP-js.git"
+  },
+  "keywords": [
+    "NLP"
+  ],
+  "author": "Ben Schmidt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmschmidt/SRP-js/issues"
+  },
+  "homepage": "https://github.com/bmschmidt/SRP-js#readme",
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
+}
